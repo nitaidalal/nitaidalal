@@ -1,102 +1,89 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/nitaidalal" alt="Nitai Dalal" width="150" height="150" />
+  <img src="https://avatars.githubusercontent.com/nitaidalal" width="150" style="border-radius: 50%" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Nitai Dalal!</h1>
+<h1 align="center">👋 Hi, I'm Nitai Dalal</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nitaidalal&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=nitaidalal&color=blue" />
 </p>
 
-🎓 **3rd Year Student, B.Tech in CSE (AI & ML), Brainware University**  
-🌱 Aspiring Full Stack Developer | Passionate about learning new technologies and building impactful projects  
-
----
-## 🏅 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nitaidalal&theme=onedark" alt="GitHub Profile Trophies" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;DSA+Learner;Building+Cool+Projects" />
 </p>
 
 ---
 
-## 🚀 Technical Skills
-
-- **Frontend:** HTML, CSS, JavaScript, React, TailwindCSS  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, MySQL  
-- **Other:** Python  
+🎓 **3rd Year B.Tech CSE (AI & ML), Brainware University**  
+🚀 Aspiring Full Stack Developer  
+💡 Passionate about building real-world impactful projects  
 
 ---
 
-## 📊 GitHub Stats & Languages
+## 🚀 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitaidalal&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitaidalal&theme=radical" height="160"/>
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitaidalal&layout=compact&theme=radical" height="160"/>
-</p>
-
+**Frontend:** HTML, CSS, JavaScript, React, TailwindCSS  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB, MySQL  
+**Languages:** Python, C++  
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nitaidalal&show_icons=true&theme=radical" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=nitaidalal&theme=radical" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitaidalal&layout=compact&theme=radical" height="160"/>
+</p>
+
+---
+
 ## 🔥 Contribution Graph
 
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=nitaidalal&theme=github-compact)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitaidalal&theme=react-dark"/>
 
 ---
 
 ## 💻 Tech Stack Badges
+
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
-
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,python,cpp" />
 </p>
-
 
 ---
 
 ## 🌟 Featured Project
 
-- [Javascript-Projects](https://github.com/nitaidalal/Javascript-Projects)  
-  A collection of creative and practical JavaScript projects, showcasing my journey and growth in web development.
+🔗 **[Javascript Projects](https://github.com/nitaidalal/Javascript-Projects)**  
+A collection of creative projects showcasing my web development journey.
 
 ---
 
-## 🏆 Goals & Interests
+## 🧠 Current Focus
 
-- Currently focused on becoming a **Full Stack Developer**  
-- Always excited to learn and experiment with new technologies  
-
----
-
-## 🤝 Contact Me
-
-I’m open to collaboration, internships, and freelance opportunities.  
-Feel free to reach out if you’d like to work together, discuss ideas, or just connect!  
-
-- [LinkedIn](https://www.linkedin.com/in/nitai-dalal-3614662a7/)  
-- [Twitter](https://x.com/nitaidalal)  
+- 📌 Mastering **DSA (Data Structures & Algorithms)**  
+- 📌 Building **MERN Stack Projects**  
+- 📌 Preparing for **placements & internships**
 
 ---
 
-## ✨ Personal Values
+## 🤝 Connect With Me
 
-- I believe in continuous learning and sharing knowledge.  
-- I enjoy building things from scratch.
+- 💼 [LinkedIn](https://www.linkedin.com/in/nitai-dalal-3614662a7/)  
+- 🐦 [Twitter](https://x.com/nitaidalal)  
 
 ---
 
-<p align="center">✨ Thanks for visiting my profile! ✨<br/>Feel free to check out my repositories and connect if you share similar interests.</p>
+## ✨ Personal Philosophy
+
+> “Consistency beats talent when talent doesn’t work hard.”
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting! Let's build something amazing together 🚀
+</p>
