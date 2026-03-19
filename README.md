@@ -25,7 +25,7 @@
 ## 🧠 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/">
+  <a href="https://leetcode.com/u/nitai_dalal_01/">
     <img src="https://img.shields.io/badge/LeetCode-DSA-orange?style=for-the-badge&logo=leetcode"/>
   </a>
 </p>
@@ -67,9 +67,9 @@
 
 ## 🌟 Featured Projects
 
-### 🚀 Vibey - a social media app
+### 🔷 Vibey - a social media app
 🔗 https://vibely-social-media-app.vercel.app/ 
-### Ai Powered Blog Platform
+### 🔶 Ai Powered Blog Platform
 🔗https://nitais-blogs.vercel.app/
 
 ---
