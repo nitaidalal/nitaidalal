@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/nitaidalal" width="140" style="border-radius:50%" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Nitai Dalal</h1>
+<h1 align="center">Hi, I'm Nitai Dalal</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nitaidalal&color=blue" />
